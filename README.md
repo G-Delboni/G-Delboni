@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**G-Delboni/G-Delboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel, a a backend developer and cybersecurity student in Brazil.
 
-Here are some ideas to get you started:
+I like to build things that solve problems in efficient and secure ways, so bringing a idea to life is what fulfills me the most. I am an enthusiast in the Cyber Security and AI area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I work with:
+
+- Java
+- Spring Boot
+- Python
+- C#
+
+I have a technical certificate in System Development and currently pursuing a degree in Cyber Security.
+
+My current goal is to build a diverse portfolio of projects that allows me to continuously improve my development skills.
