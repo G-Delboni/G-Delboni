@@ -11,7 +11,6 @@ I like to build things that solve problems in efficient and secure ways, so brin
 * Java
 * Spring Boot
 * Python
-* C#
 * REST APIs
 * JPA / Hibernate
 * SQL
