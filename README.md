@@ -1,42 +1,27 @@
-Hi there 👋
+# Gabriel Delboni
 
-I'm Gabriel, a Backend Developer and Cybersecurity student from Brazil, focused primarily on Java and Spring Boot.
+Software developer in Brazil, building LLM-based systems: agents with tool calling, structured output, guardrails and evals. My base is backend (Java and Spring Boot, TypeScript, Python), and I study Cybersecurity at FATEC Americana, which shapes how I handle prompt injection and personal data in agents.
 
-I like to build things that solve problems in efficient and secure ways, so bringing a idea to life is what fulfills me the most. I am an enthusiast in the Cyber Security and AI area. My background in System Development and Cybersecurity also gives me an interest in understanding not only how applications are built, but also how they can be protected
+At work I build a WhatsApp customer-service agent for a multi-tenant product (private code). The repositories below are my own projects.
 
-### 🛠️ Technologies
+## Start here
 
-**Backend & Development**
+- **[agente-whatsapp-ia](https://github.com/G-Delboni/agente-whatsapp-ia)**: WhatsApp assistant on the Anthropic API, in Python and FastAPI. Hand-written agent loop with strict tools, prompt caching, cost and personal-data guards, and an eval suite that runs offline in CI. Also extracts invoices and receipts into structured data with per-field confidence.
+- **[AITaskAssistant](https://github.com/G-Delboni/AITaskAssistant)** (Lume): productivity assistant in Java 21, Spring Boot and Spring AI with Google Gemini. The model turns natural language into a structured command; the Java code validates it, applies the business rules and owns the database.
+- **[SpringAiFinancial](https://github.com/G-Delboni/SpringAiFinancial)**: personal finance assistant with Spring AI tool calling and speech-to-text, protected by an API key and a rate limiter.
+- **[SpringOrderProject](https://github.com/G-Delboni/SpringOrderProject)**: layered REST API for clients, products and orders with Spring Data JPA.
 
-* Java
-* Spring Boot
-* Python
-* REST APIs
-* JPA / Hibernate
-* SQL
+## What I work with
 
-**Currently exploring**
+- **AI:** Anthropic API (Claude), Google Gemini, Spring AI, tool calling, structured output, prompt caching, evals, guardrails
+- **Backend:** Java, Spring Boot, TypeScript, Node.js, Python, FastAPI, PostgreSQL
+- **Testing and tooling:** JUnit, MockMvc, Vitest, pytest, Playwright, Docker, GitHub Actions
+- **Security:** Linux, networking, fundamentals of pentesting and vulnerability analysis
 
-* Spring AI
-* LLM applications
-* AI-assisted backend systems
-* Application security
+## Now
 
-### 🚀 Projects
+Studying machine learning fundamentals and model evaluation, and publishing what I build along the way.
 
-I'm currently building projects focused on backend development and AI integration, including:
+## Contact
 
-* **Task & Goal Assistant** — a Java/Spring Boot backend for managing tasks, activities and goals, with plans to integrate LLMs through Spring AI.
-* **Order Management API** — a Spring Boot REST API implementing clients, products, orders and order items with relational persistence.
-* **Cybersecurity Labs** — practical projects involving networking, Linux, system administration, monitoring and security concepts.
-
-### 🎓 Background
-
-* **Cybersecurity** — Bachelor's degree, currently studying
-* **System Development** — Technical Certificate
-
-### 🎯 Currently
-
-I'm focused on **improving my Java/Spring Boot skills, building real-world backend projects, exploring AI/LLM applications, and developing a stronger portfolio for my first professional opportunity in software development.**
-
-I'm always learning, building, and looking for better ways to turn ideas into working software.
+[LinkedIn](https://www.linkedin.com/in/gabriel-delboni-dias) · [Portfolio](https://www.gabrieldelboni.com.br)
