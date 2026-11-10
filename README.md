@@ -16,7 +16,7 @@ At work I build a WhatsApp customer-service agent for a multi-tenant product (pr
 ## More
 
 - **[yoru](https://github.com/G-Delboni/yoru)**: personal organizer that runs on your own computer. FastAPI and SQLite server, with an Android app in Kotlin that syncs offline-first.
-- **[SpringOrderProject](https://github.com/G-Delboni/SpringOrderProject)**: layered REST API for clients, products and orders with Spring Data JPA.
+- **[SpringOrderProject](https://github.com/G-Delboni/SpringOrderProject)**: study project for a layered orders API with Spring Data JPA. Work in progress: only the client entity exists so far.
 - **[Portfolio](https://github.com/G-Delboni/Portfolio)**: my personal site, in Vue 3 and Vite.
 
 ## What I work with

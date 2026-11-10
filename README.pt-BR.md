@@ -16,7 +16,7 @@ No trabalho, desenvolvo um agente de atendimento por WhatsApp para um produto mu
 ## Mais
 
 - **[yoru](https://github.com/G-Delboni/yoru)**: organizador pessoal que roda no seu próprio computador. Servidor em FastAPI e SQLite, com um app Android em Kotlin que sincroniza no modelo offline-first.
-- **[SpringOrderProject](https://github.com/G-Delboni/SpringOrderProject)**: API REST em camadas para clientes, produtos e pedidos, com Spring Data JPA.
+- **[SpringOrderProject](https://github.com/G-Delboni/SpringOrderProject)**: projeto de estudo de uma API de pedidos em camadas com Spring Data JPA. Em andamento: por enquanto só existe a entidade de cliente.
 - **[Portfolio](https://github.com/G-Delboni/Portfolio)**: meu site pessoal, em Vue 3 e Vite.
 
 ## Com o que trabalho
